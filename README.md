@@ -29,7 +29,6 @@
 - ✅ Dark/Light theme support
 - ✅ Cross-platform compatibility
 
-**Live Demo**: [https://www.synccode.live/](https://www.synccode.live/)
 
 ---
 
