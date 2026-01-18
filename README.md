@@ -1,4 +1,4 @@
-# Codingcolab - Project Documentation
+# Codingcolab 
 
 ## 📋 Table of Contents
 
@@ -12,6 +12,23 @@
 8. [Known Issues](#known-issues)
 9. [Future Enhancements](#future-enhancements)
 
+---
+## 📸 Project Screenshots
+
+
+*Landing page with animated hero section and feature showcase*
+
+### Code Editor
+<!-- Add screenshot: CodeMirror editor with syntax highlighting -->
+
+<img width="1383" height="820" alt="Screenshot 2026-01-19 030053" src="https://github.com/user-attachments/assets/408ce77d-caf7-4994-a739-9f848a2b5c3a" />
+
+
+*Real-time collaborative code editor with syntax highlighting*
+
+### Whiteboard
+<!-- Add screenshot: Collaborative whiteboard with drawing tools -->
+<img width="1154" height="569" alt="Screenshot 2026-01-19 030035" src="https://github.com/user-attachments/assets/cef9209b-0071-4442-9a53-b0168d755c2d" />
 ---
 
 ## 🎯 Project Overview
@@ -297,24 +314,7 @@ REACT_APP_API_URL=http://localhost:8000
 
 ---
 
-## 📸 Project Screenshots
 
-### Landing Page
-<!-- Add screenshot: Landing page with hero section and features -->
-![Landing Page]<img width="1914" height="925" alt="Screenshot 2025-11-12 225357" src="https://github.com/user-attachments/assets/874b5003-50a9-4f16-88d7-4d4bd3c72f7d" />
-
-*Landing page with animated hero section and feature showcase*
-
-### Code Editor
-<!-- Add screenshot: CodeMirror editor with syntax highlighting -->
-![Code Editor]<img width="1919" height="915" alt="Screenshot 2025-11-12 225312" src="https://github.com/user-attachments/assets/970525ea-17b0-4ff4-bab6-e2e04633ce56" />
-
-*Real-time collaborative code editor with syntax highlighting*
-
-### Whiteboard
-<!-- Add screenshot: Collaborative whiteboard with drawing tools -->
-![Whiteboard]<img width="1908" height="899" alt="Screenshot 2025-11-12 225045" src="https://github.com/user-attachments/assets/3f2abcc5-b8a0-4601-92d6-60f92b102c5c" />
-*Collaborative whiteboard with pen, eraser, and color palette*
 
 ---
 
