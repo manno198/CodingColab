@@ -1,4 +1,4 @@
-# SyncCodes - Project Documentation
+# Codingcolab - Project Documentation
 
 ## 📋 Table of Contents
 
@@ -16,7 +16,7 @@
 
 ## 🎯 Project Overview
 
-**SyncCodes** is a real-time collaborative coding platform that enables multiple users to code, communicate, and collaborate seamlessly. The platform integrates code editing, video conferencing, code execution, collaborative whiteboard, and AI-powered interview question generation in a single unified environment.
+**CodingColab** is a real-time collaborative coding platform that enables multiple users to code, communicate, and collaborate seamlessly. The platform integrates code editing, video conferencing, code execution, collaborative whiteboard, and AI-powered interview question generation in a single unified environment.
 
 ### Key Highlights
 
@@ -256,7 +256,7 @@ And generates tailored interview questions based on the resume content.
 #### 1. Clone Repository
 ```bash
 git clone <repository-url>
-cd SyncCodes
+cd CodingColab
 ```
 
 #### 2. Backend Setup
